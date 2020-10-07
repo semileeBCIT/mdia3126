@@ -4,7 +4,7 @@ import styled, {css} from 'styled-components';
 
 const ButtonBox = styled.div`
     background-color:${props=>props.bccolor ? props.bccolor : "#DDD"};
-    width: 384px;
+    width: 385px;
     border-radius: 3px;
 `;
 
